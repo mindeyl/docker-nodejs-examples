@@ -60,5 +60,3 @@ To stop the container:
 ```bash
 npm run docker:stop
 ```
-
-lakshman
